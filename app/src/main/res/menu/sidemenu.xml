@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_fields"
+            android:icon="@drawable/menu_icon"
+            android:title="@string/menu_fields" />
+        <item
+            android:id="@+id/nav_staff"
+            android:icon="@drawable/menu_icon"
+            android:title="@string/menu_staff" />
+        <item
+            android:id="@+id/nav_courses"
+            android:icon="@drawable/menu_icon"
+            android:title="@string/menu_courses" />
+        <item
+            android:id="@+id/nav_deps"
+            android:icon="@drawable/menu_icon"
+            android:title="@string/menu_deps" />
+        <item
+            android:id="@+id/nav_divisions"
+            android:icon="@drawable/menu_icon"
+            android:title="@string/menu_divisions" />
+        <item
+            android:id="@+id/nav_inst"
+            android:icon="@drawable/menu_icon"
+            android:title="@string/menu_inst" />
+        <item
+            android:id="@+id/nav_progs"
+            android:icon="@drawable/menu_icon"
+            android:title="@string/menu_progs" />
+        <item
+            android:id="@+id/nav_projects"
+            android:icon="@drawable/menu_icon"
+            android:title="@string/menu_projects" />
+    </group>
+    <item
+        android:title="@string/menu_lang">
+        <menu>
+            <group android:checkableBehavior="single">
+                <item
+                    android:id="@+id/nav_de"
+                    android:icon="@drawable/menu_icon"
+                    android:title="@string/menu_deutsch" />
+                <item
+                    android:id="@+id/nav_en"
+                    android:icon="@drawable/menu_icon"
+                    android:title="@string/menu_englisch" />
+            </group>
+        </menu>
+    </item>
+</menu>

@@ -1,0 +1,48 @@
+<resources>
+    <string name="uni_name">St. Pölten University Of Applied Science</string>
+    <string name="app_name">St. Pölten University</string>
+
+    <string name="menu_fields">Fields of Study</string>
+    <string name="menu_staff">Staff A-Z</string>
+    <string name="menu_courses">Continuing Education Course</string>
+    <string name="menu_deps">Departments</string>
+    <string name="menu_divisions">Divisions</string>
+    <string name="menu_inst">Institutes</string>
+    <string name="menu_progs">Study programmes</string>
+    <string name="menu_projects">Projects</string>
+    <string name="menu_deutsch">Deutsch</string>
+    <string name="menu_englisch">English</string>
+    <string name="menu_lang">Language</string>
+    <string name="language_changed">Die Sprache wird in Deutsch geändert. Bitte starten Sie die App erneut.</string>
+    <string name="about_us">The St. Pölten UAS LLC is locally anchored, globally connected and stands for qualitative academic education in the departments of Rail Technology and Mobility, Health Sciences, Computer Science and Security, Media and Digital Technologies, Media and Economics, and Social Sciences. The linking of issues in teaching and researching creates room for interdisciplinary scientific findings, products and solutions for the economy and society. More than 3,000 students receive a practice-oriented academic education in 22 study programmes and numerous continuing education courses.</string>
+    <string name="news">News Room:</string>
+    <string name="news_url">https://www.fhstp.ac.at/en/newsroom/newsroom_news_view</string>
+    <string name="contactTitle">FH St. Pölten</string>
+    <string name="contact">Matthias Corvinus–Straße 15\nA-3100 St. Pölten\nT: +43/2742/313 228-200\nF: +43/2742/313 228-339\ncsc@fhstp.ac.at</string>
+    <string name="sendemail">Send email...</string>
+    <string name="connectfailed">cannot connect to the server</string>
+
+    <string name="study_dmw">Media &amp; Economics</string>
+    <string name="study_dmdt">Media &amp; Digital Technologies</string>
+    <string name="study_dis">Computer Science &amp; Security</string>
+    <string name="study_dbm">Rail Technology &amp; Mobility</string>
+    <string name="study_dge">Health Sciences</string>
+    <string name="study_dso">Social Sciences</string>
+
+    <string name="press_and_hold">Press and hold for Participants.</string>
+    <string name="online_profile">Online Profile</string>
+    <string name="research_profile">Complete profile</string>
+    <string name="cv">CV</string>
+
+    <string name="search">Search</string>
+    <string name="staff_departments">Department:</string>
+    <string name="staff_divisions">Division:</string>
+    <string name="staff_institute">Institute:</string>
+    <string name="staff_progs">Study programmes:</string>
+    <string name="staff_courses">Continuing Education Course:</string>
+    <string name="staff_bio">Short profile:</string>
+    <string name="staff_projects">Projects:</string>
+    <string name="staff_links">Links:</string>
+    <string name="staff_contact">Contact:</string>
+
+</resources>

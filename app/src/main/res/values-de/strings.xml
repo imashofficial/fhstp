@@ -1,0 +1,48 @@
+<resources>
+    <string name="uni_name">Fachhochschule St. Pölten</string>
+    <string name="app_name">Fachhochschule St. Pölten</string>
+
+    <string name="menu_fields">Studienbereiche</string>
+    <string name="menu_staff">MitarbeiterInnen A-Z</string>
+    <string name="menu_courses">Lehrgang</string>
+    <string name="menu_deps">Department</string>
+    <string name="menu_divisions">Abteilung</string>
+    <string name="menu_inst">Institut</string>
+    <string name="menu_progs">Studiengang</string>
+    <string name="menu_projects">Projekte</string>
+    <string name="menu_deutsch">Deutsch</string>
+    <string name="menu_englisch">English</string>
+    <string name="menu_lang">Sprache</string>
+    <string name="language_changed">Language is changed to English. Please restart the app.</string>
+    <string name="about_us">Die Fachhochschule St. Pölten GmbH ist lokal verankert, global vernetzt und steht für qualitätsvolle Hochschulausbildung in den Departments Bahntechnologie und Mobilität, Gesundheit, Informatik und Security, Medien und Digitale Technologien, Medien und Wirtschaft, Soziales. Die Verbindung der Themengebiete in Lehre und Forschung schafft Raum für interdisziplinäre wissenschaftliche Erkenntnisse, Produkte und Lösungen für Wirtschaft und Gesellschaft. Mit dem Wintersemester 2018/19 erhalten mehr als 3.200 Studierende in 22 Studiengängen und in zahlreichen Weiterbildungslehrgängen eine praxisbezogene akademische Ausbildung.</string>
+    <string name="news">Übersicht:</string>
+    <string name="news_url">https://www.fhstp.ac.at/de/newsroom/newsroom_news_view</string>
+    <string name="contactTitle">FH St. Pölten</string>
+    <string name="contact">Matthias Corvinus–Straße 15\nA-3100 St. Pölten\nT: +43/2742/313 228-200\nF: +43/2742/313 228-339\ncsc@fhstp.ac.at</string>
+    <string name="sendemail">E-Mail senden…</string>
+    <string name="connectfailed">kann nicht mit dem Server verbinden</string>
+
+    <string name="study_dmw">Medien &amp; Wirtschaft</string>
+    <string name="study_dmdt">Medien &amp; Digitale Technologien</string>
+    <string name="study_dis">Informatik &amp; Security</string>
+    <string name="study_dbm">Bahntechnologie &amp; Mobilität</string>
+    <string name="study_dge">Gesundheit</string>
+    <string name="study_dso">Soziales</string>
+
+    <string name="press_and_hold">Gedrückt halten für Teilnehmer.</string>
+    <string name="online_profile">Online Profil</string>
+    <string name="research_profile">Vollständigen Profil</string>
+    <string name="cv">Lebenslauf</string>
+
+    <string name="search">Suche</string>
+    <string name="staff_departments">Department:</string>
+    <string name="staff_divisions">Abteilung:</string>
+    <string name="staff_institute">Institut:</string>
+    <string name="staff_progs">Studiengang:</string>
+    <string name="staff_courses">Lehrgang:</string>
+    <string name="staff_bio">Kurzprofil:</string>
+    <string name="staff_projects">Projekte:</string>
+    <string name="staff_links">Links:</string>
+    <string name="staff_contact">Kontakt:</string>
+
+</resources>
